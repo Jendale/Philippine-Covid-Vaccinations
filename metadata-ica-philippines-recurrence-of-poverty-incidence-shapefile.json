@@ -1,0 +1,15 @@
+{
+    "created": "2020-01-27T11:42:03.823565",
+    "description": "Zipped Shapefile. This layer contains information about the recurrence of poverty incidence - by second-level administrative area - observed during the Integrated Context Analysis (ICA) run in the Philippines in 2014. Data sources: Philippines National Statistical Coordination Board (NSCB), 2006-2012. It should be noted that, in absence of national food security information, poverty data has been used as a proxy to food insecurity - assuming that families below the poverty line are likely to be food insecure. Also, in the Philippines official methodology, the poverty line may be viewed as the minimum income required to meet food requirements as well as non-food basic needs. The main indicator used for the analysis was the recurrence of poverty incidence, with a threshold set to 30% of the families to represent 1 out of 3 people below the poverty line.",
+    "format": "SHP",
+    "download_url": "https://geonode.wfp.org/geoserver/wfs?format_options=charset:UTF-8&typename=geonode:phl_ica_povertyrecurrence_geonode_mar2014&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature",
+    "id": "8c704406-17a2-4fbb-8ba3-6bb42fabd281",
+    "last_modified": "2020-01-27T11:42:03.774549",
+    "metadata_modified": "2022-01-10T07:54:13.916301",
+    "microdata": false,
+    "dataset_id": "073338a3-965f-4c54-a145-0666460814c9",
+    "resource_type": "api",
+    "name": "ICA Philippines - Recurrence of Poverty Incidence shapefile",
+    "mimetype": null,
+    "size": "0.0B"
+}
